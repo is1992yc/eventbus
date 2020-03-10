@@ -47,6 +47,11 @@
 			<artifactId>guava</artifactId>
 			<version>28.2-jre</version>
 		</dependency>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<scope>test</scope>
+		</dependency>
 
 	</dependencies>
 
